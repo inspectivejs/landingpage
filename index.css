@@ -1,0 +1,20 @@
+body {
+  background-color: #d6f9dd
+}
+main section {
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+main > section {
+  padding-top: 10px;
+}
+.features {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin-top: 20px;
+}
+.features section {
+  width: 333px;
+  padding: 0 20px;
+}
