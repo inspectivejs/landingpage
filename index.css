@@ -1,5 +1,10 @@
+header {
+  background: #212227;
+  color: #acbdba
+}
+
 body {
-  background-color: #d6f9dd
+  background: #d6f9dd
 }
 main section {
   padding: 0 20px;
