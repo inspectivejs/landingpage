@@ -4,8 +4,14 @@ header {
 }
 
 body {
-  background: #d6f9dd
+  background: #acbdba;
+  margin: 0 auto;
+  max-width: 50em;
+  font-family: "Helvetica", "Arial", sans-serif;
+  line-height: 1.5;
+  padding: 4em 1em;
 }
+
 main section {
   padding: 0 20px;
   box-sizing: border-box;
@@ -20,6 +26,9 @@ main > section {
   margin-top: 20px;
 }
 .features section {
-  width: 333px;
+  width: 20em;
   padding: 0 20px;
+  background: #212227;
+  margin: 1em;
+  color: #ffffff;
 }
